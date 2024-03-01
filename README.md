@@ -1,12 +1,11 @@
 <h1 align="center">Hi , I'm Saurabh</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Software Engineer from India, also a Computer Science student fascinated by web development and software engineering, with a keen focus on mastering data structures and algorithms.</h3>
 
 <img align="right" alt="coding " width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-with-saurabh&label=Profile%20views&color=0e75b6&style=flat" alt="code-with-saurabh" /> </p>
 
-- ⚡ Fun fact :-I am Funny
-
+- ⚡ Fun fact :-I'm a coding enthusiast, always ready for the next challenge.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_mr_sharma__16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_sharma__16" height="30" width="40" /></a>
