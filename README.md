@@ -35,25 +35,17 @@
 
 <!-- LEFT COLUMN -->
 <td align="center" valign="top" style="width:33%; padding:10px;">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css" style="max-width:100%;" />
-    <br/><br/>
-    <img src="https://skillicons.dev/icons?i=js,java,php,python" style="max-width:100%;" />
-    <br/><br/>
-    <img src="https://skillicons.dev/icons?i=bash,powershell" style="max-width:100%;" />
-    <br/><br/>
-
-    <h4 style="color:#58a6ff;">Databases & Platforms</h4>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" style="max-width:100%;" />
-    <br/><br/>
-    <img src="https://skillicons.dev/icons?i=vercel,netlify" style="max-width:100%;" />
-
+  <h4 style="color:#58a6ff;">Languages & Tools</h4>
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,php,python,bash,powershell" /><br/><br/>
+  <h4 style="color:#58a6ff;">Databases & Platforms</h4>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,vercel,netlify" />
 </td>
 
 <!-- CENTER COLUMN -->
 <td align="center" valign="middle" style="width:34%; padding:10px;">
 <p align="center" style="margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/Code-with-saurabh/Code-with-saurabh/main/assets/0660efe82fa3da42ed56eef013171835.gif"
-       alt="Terminal animation" style="width:100%; max-width:300px;" />
+       alt="Terminal animation" width="300" />
 </p>
 
 </td>
@@ -61,9 +53,9 @@
 <!-- RIGHT COLUMN -->
 <td align="center" valign="top" style="width:33%; padding:10px;">
   <h4 style="color:#58a6ff;">Frameworks & Libraries</h4>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,angular,ejs,express,nodejs,bootstrap,socketio" style="max-width:100%;" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,angular,ejs,express,nodejs,bootstrap,socketio" /><br/><br/>
   <h4 style="color:#58a6ff;">Dev & Others</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,canva,numpy,pandas,plotly,jwt,npm,windows" style="max-width:100%;" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,canva,numpy,pandas,plotly,jwt,npm,windows" />
 </td>
 
 </tr>
