@@ -28,39 +28,54 @@
 
 ---
 
+---  
 ## 🛠️ Tech Stack
 
 <table align="center" style="width:100%; max-width:950px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 <tr>
+  <!-- LEFT COLUMN -->
+  <td align="center" valign="top" style="width:33%; padding:10px;">
+    <h4 style="color:#58a6ff;">Languages & Tools</h4>
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css" />
+    <br/><br/>
+    <img src="https://skillicons.dev/icons?i=js,java,php,python" />
+    <br/><br/>
+    <img src="https://skillicons.dev/icons?i=bash,powershell" />
+    <br/><br/>
 
-<!-- LEFT COLUMN -->
-<td align="center" valign="top" style="width:33%; padding:10px;">
-  <h4 style="color:#58a6ff;">Languages & Tools</h4>
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,php,python,bash,powershell" /><br/><br/>
-  <h4 style="color:#58a6ff;">Databases & Platforms</h4>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,vercel,netlify" />
-</td>
+    <h4 style="color:#58a6ff;">Databases & Platforms</h4>
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+    <br/><br/>
+    <img src="https://skillicons.dev/icons?i=vercel,netlify" />
+  </td>
 
-<!-- CENTER COLUMN -->
-<td align="center" valign="middle" style="width:34%; padding:10px;">
-<p align="center" style="margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Code-with-saurabh/Code-with-saurabh/main/assets/0660efe82fa3da42ed56eef013171835.gif"
-       alt="Terminal animation" width="300" />
-</p>
+  <!-- CENTER COLUMN -->
+  <td align="center" valign="middle" style="width:34%; padding:10px;">
+    <p align="center" style="margin: 20px 0;">
+      <img src="https://raw.githubusercontent.com/Code-with-saurabh/Code-with-saurabh/main/assets/0660efe82fa3da42ed56eef013171835.gif" 
+           alt="Terminal animation" width="300" />
+    </p>
+  </td>
 
-</td>
+  <!-- RIGHT COLUMN -->
+  <td align="center" valign="top" style="width:33%; padding:10px;">
+    <h4 style="color:#58a6ff;">Frameworks & Libraries</h4>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
+    <br/><br/>
+    <img src="https://skillicons.dev/icons?i=angular,ejs,express,nodejs" />
+    <br/><br/>
+    <img src="https://skillicons.dev/icons?i=bootstrap,socketio" />
+    <br/><br/>
 
-<!-- RIGHT COLUMN -->
-<td align="center" valign="top" style="width:33%; padding:10px;">
-  <h4 style="color:#58a6ff;">Frameworks & Libraries</h4>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,angular,ejs,express,nodejs,bootstrap,socketio" /><br/><br/>
-  <h4 style="color:#58a6ff;">Dev & Others</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,canva,numpy,pandas,plotly,jwt,npm,windows" />
-</td>
-
+    <h4 style="color:#58a6ff;">Dev & Others</h4>
+    <img src="https://skillicons.dev/icons?i=git,github,postman,canva" />
+    <br/><br/>
+    <img src="https://skillicons.dev/icons?i=numpy,pandas,plotly,jwt" />
+    <br/><br/>
+    <img src="https://skillicons.dev/icons?i=npm,windows" />
+  </td>
 </tr>
 </table>
-
 ---
 
 ## 📊 GitHub Stats
