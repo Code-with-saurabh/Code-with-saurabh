@@ -43,7 +43,11 @@
 
 <!-- CENTER COLUMN -->
 <td align="center" valign="middle" style="width:34%; padding:10px;">
-  <img src="https://raw.githubusercontent.com/code-with-saurabh/code-with-saurabh/output/github-contribution-grid-snake.svg" alt="Contribution Snake" style="max-width: 100%; border-radius: 12px; box-shadow: 0 0 12px #238636;" />
+  <p align="center" style="margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Code-with-saurabh/Code-with-saurabh/main/assets/skill-chart.gif"
+       alt="Skill Chart" width="300" />
+</p>
+
 </td>
 
 <!-- RIGHT COLUMN -->
