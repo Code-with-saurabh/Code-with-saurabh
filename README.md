@@ -90,6 +90,6 @@
   <img src="https://raw.githubusercontent.com/Code-with-saurabh/snake-contrib-generator/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Light" style="max-width: 100%; border-radius: 12px; box-shadow: 0 0 12px #238636; margin-bottom: 15px;" />
   <br/>
   <!-- Dark mode snake -->
-  <img src="https://raw.githubusercontent.com/Code-with-saurabh/snake-contrib-generator/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Dark" style="max-width: 100%; border-radius: 12px; box-shadow: 0 0 12px #238636;" />
+  <!--<img src="https://raw.githubusercontent.com/Code-with-saurabh/snake-contrib-generator/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Dark" style="max-width: 100%; border-radius: 12px; box-shadow: 0 0 12px #238636;" />!-->
 </p>
 
