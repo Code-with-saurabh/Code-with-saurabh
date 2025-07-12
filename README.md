@@ -44,7 +44,7 @@
 <!-- CENTER COLUMN -->
 <td align="center" valign="middle" style="width:34%; padding:10px;">
 <p align="center" style="margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Code-with-saurabh/Code-with-saurabh/main/assets/terminal.gif"
+  <img src="https://raw.githubusercontent.com/Code-with-saurabh/Code-with-saurabh/main/assets/0660efe82fa3da42ed56eef013171835.gif"
        alt="Terminal animation" width="300" />
 </p>
 
