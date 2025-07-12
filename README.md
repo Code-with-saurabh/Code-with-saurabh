@@ -36,7 +36,9 @@
 <!-- LEFT COLUMN -->
 <td align="center" valign="top" style="width:33%; padding:10px;">
   <h4 style="color:#58a6ff;">Languages & Tools</h4>
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,php,python,bash,powershell" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css" /><br/>
+  <img src="https://skillicons.dev/icons?i=js,java,php,python" /><br/>
+  <img src="https://skillicons.dev/icons?i=bash,powershell" /><br/><br/>
   <h4 style="color:#58a6ff;">Databases & Platforms</h4>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,vercel,netlify" />
 </td>
