@@ -56,9 +56,13 @@
 <!-- RIGHT COLUMN -->
 <td align="center" valign="top" style="width:33%; padding:10px;">
   <h4 style="color:#58a6ff;">Frameworks & Libraries</h4>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,angular,ejs,express,nodejs,bootstrap,socketio" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=angular,ejs,express,nodejs" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=bootstrap,socketio" /><br/><br/><br/>
   <h4 style="color:#58a6ff;">Dev & Others</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,canva,numpy,pandas,plotly,jwt,npm,windows" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,canva" /><br/><br/>
+    <img src="https://skillicons.dev/icons?i=numpy,pandas,plotly,jwt" /><br/><br/>
+    <img src="https://skillicons.dev/icons?i=npm,windows" />
 </td>
 
 </tr>
