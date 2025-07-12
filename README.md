@@ -43,9 +43,9 @@
 
 <!-- CENTER COLUMN -->
 <td align="center" valign="middle" style="width:34%; padding:10px;">
-  <p align="center" style="margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Code-with-saurabh/Code-with-saurabh/main/assets/skill-chart.gif"
-       alt="Skill Chart" width="300" />
+<p align="center" style="margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Code-with-saurabh/Code-with-saurabh/main/assets/terminal.gif"
+       alt="Terminal animation" width="300" />
 </p>
 
 </td>
