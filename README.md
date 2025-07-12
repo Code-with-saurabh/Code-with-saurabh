@@ -14,12 +14,15 @@
 ---
 
 ## 🌐 Connect With Me:
-<p align="center">
-  <a href="https://instagram.com/_mr_sharma__16" target="_blank">
+<p align="center" style="margin-top: 10px;">
+  <a href="https://instagram.com/_mr_sharma__16" target="_blank" style="margin: 0 15px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/saurabh-sharma-64643128b" target="_blank">
+  <a href="https://www.linkedin.com/in/saurabh-sharma-64643128b" target="_blank" style="margin: 0 15px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://x.com/Mr_Saurabh_16" target="_blank" style="margin: 0 15px;">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/Twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
 </p>
 
