@@ -5,13 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=code-with-saurabh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
+<hr/>
 
 ## 📫 Reach Me At:  
 📧 <b>idkxyz001@gmail.com</b>  
 ⚡ <i>Fun Fact:</i> I see algorithms in everything — even my morning coffee ☕!
 
----
+<hr/>
 
 ## 🌐 Connect With Me:
 <p align="center" style="margin-top: 10px;">
@@ -22,61 +22,50 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://x.com/Mr_Saurabh_16" target="_blank" style="margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter/X" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Black/Twitter.svg" alt="Twitter/X" height="30" width="40" />
   </a>
 </p>
 
----
+<hr/>
 
----  
 ## 🛠️ Tech Stack
 
 <table align="center" style="width:100%; max-width:950px; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-<tr>
-  <!-- LEFT COLUMN -->
-  <td align="center" valign="top" style="width:33%; padding:10px;">
-    <h4 style="color:#58a6ff;">Languages & Tools</h4>
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css" />
-    <br/><br/>
-    <img src="https://skillicons.dev/icons?i=js,java,php,python" />
-    <br/><br/>
-    <img src="https://skillicons.dev/icons?i=bash,powershell" />
-    <br/><br/>
+  <tr>
+    <!-- LEFT COLUMN -->
+    <td align="center" valign="top" style="width:33%; padding:10px;">
+      <h4 style="color:#58a6ff;">Languages & Tools</h4>
+      <img src="https://skillicons.dev/icons?i=c,cpp,html,css" /><br/><br/>
+      <img src="https://skillicons.dev/icons?i=js,java,php,python" /><br/><br/>
+      <img src="https://skillicons.dev/icons?i=bash,powershell" /><br/><br/>
+      <h4 style="color:#58a6ff;">Databases & Platforms</h4>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" /><br/><br/>
+      <img src="https://skillicons.dev/icons?i=vercel,netlify" />
+    </td>
 
-    <h4 style="color:#58a6ff;">Databases & Platforms</h4>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
-    <br/><br/>
-    <img src="https://skillicons.dev/icons?i=vercel,netlify" />
-  </td>
+    <!-- CENTER COLUMN -->
+    <td align="center" valign="middle" style="width:34%; padding:10px;">
+      <p align="center" style="margin: 20px 0;">
+        <img src="https://raw.githubusercontent.com/Code-with-saurabh/Code-with-saurabh/main/assets/0660efe82fa3da42ed56eef013171835.gif"
+             alt="Terminal animation" width="300" />
+      </p>
+    </td>
 
-  <!-- CENTER COLUMN -->
-  <td align="center" valign="middle" style="width:34%; padding:10px;">
-    <p align="center" style="margin: 20px 0;">
-      <img src="https://raw.githubusercontent.com/Code-with-saurabh/Code-with-saurabh/main/assets/0660efe82fa3da42ed56eef013171835.gif" 
-           alt="Terminal animation" width="300" />
-    </p>
-  </td>
-
-  <!-- RIGHT COLUMN -->
-  <td align="center" valign="top" style="width:33%; padding:10px;">
-    <h4 style="color:#58a6ff;">Frameworks & Libraries</h4>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
-    <br/><br/>
-    <img src="https://skillicons.dev/icons?i=angular,ejs,express,nodejs" />
-    <br/><br/>
-    <img src="https://skillicons.dev/icons?i=bootstrap,socketio" />
-    <br/><br/>
-
-    <h4 style="color:#58a6ff;">Dev & Others</h4>
-    <img src="https://skillicons.dev/icons?i=git,github,postman,canva" />
-    <br/><br/>
-    <img src="https://skillicons.dev/icons?i=numpy,pandas,plotly,jwt" />
-    <br/><br/>
-    <img src="https://skillicons.dev/icons?i=npm,windows" />
-  </td>
-</tr>
+    <!-- RIGHT COLUMN -->
+    <td align="center" valign="top" style="width:33%; padding:10px;">
+      <h4 style="color:#58a6ff;">Frameworks & Libraries</h4>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" /><br/><br/>
+      <img src="https://skillicons.dev/icons?i=angular,ejs,express,nodejs" /><br/><br/>
+      <img src="https://skillicons.dev/icons?i=bootstrap,socketio" /><br/><br/>
+      <h4 style="color:#58a6ff;">Dev & Others</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,postman,canva" /><br/><br/>
+      <img src="https://skillicons.dev/icons?i=numpy,pandas,plotly,jwt" /><br/><br/>
+      <img src="https://skillicons.dev/icons?i=npm,windows" />
+    </td>
+  </tr>
 </table>
----
+
+<hr/>
 
 ## 📊 GitHub Stats
 
@@ -89,7 +78,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=code-with-saurabh&theme=dark" width="80%" />
 </p>
 
----
+<hr/>
 
 ## 🐍 GitHub Contribution Snake
 
