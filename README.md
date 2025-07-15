@@ -40,7 +40,7 @@
   <img src="https://skillicons.dev/icons?i=js,java,php,python" /><br/><br/>
   <img src="https://skillicons.dev/icons?i=bash,powershell" /><br/><br/><br/>
   <h4 style="color:#58a6ff;">Databases & Platforms</h4>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,vercel,netlify" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" /><br/><br/>
     <img src="https://skillicons.dev/icons?i=vercel,netlify" />
 </td>
 
