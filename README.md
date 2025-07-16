@@ -109,4 +109,13 @@
 
 ---
 
+## 🛠 Skill Levels
 
+<p align="center">
+  ![JavaScript](https://img.shields.io/badge/JavaScript-90%25-yellow?style=for-the-badge)
+  ![Python](https://img.shields.io/badge/Python-80%25-blue?style=for-the-badge)
+  ![Java](https://img.shields.io/badge/Java-75%25-red?style=for-the-badge)
+  ![React](https://img.shields.io/badge/React-85%25-61dafb?style=for-the-badge)
+</p>
+
+---
