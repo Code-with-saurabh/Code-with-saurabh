@@ -2,7 +2,7 @@
 <h3 align="center" style="color:#8b949e;">A passionate Software Engineer from India 🇮🇳</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=code-with-saurabh&label=Profile%20Views&color=00cec9&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=code-with-saurabh&label=Profile%20Views&color=FF00FF&style=flat-square" alt="Profile Views" />
 
 </p>
 
