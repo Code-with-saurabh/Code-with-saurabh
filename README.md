@@ -85,7 +85,11 @@
 
 ---
 ## 🐍 GitHub Contribution Snake
-
+<div style="width: 100%; overflow: hidden; line-height: 0;">
+  <svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 50px; width: 100%;">
+    <path d="M0.00,49.98 C150.00,150.00 271.00,-49.98 500.00,49.98 L500.00,150.00 L0.00,150.00 Z" style="stroke:none; fill:#58a6ff;"></path>
+  </svg>
+</div>
 <p align="center">
   <!-- Light mode snake -->
   <img src="https://raw.githubusercontent.com/Code-with-saurabh/snake-contrib-generator/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Light" style="max-width: 100%; border-radius: 12px; box-shadow: 0 0 12px #238636; margin-bottom: 15px;" />
@@ -93,8 +97,4 @@
   <!-- Dark mode snake -->
   <!--<img src="https://raw.githubusercontent.com/Code-with-saurabh/snake-contrib-generator/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Dark" style="max-width: 100%; border-radius: 12px; box-shadow: 0 0 12px #238636;" />!-->
 </p>
-<div style="width: 100%; overflow: hidden; line-height: 0;">
-  <svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 50px; width: 100%;">
-    <path d="M0.00,49.98 C150.00,150.00 271.00,-49.98 500.00,49.98 L500.00,150.00 L0.00,150.00 Z" style="stroke:none; fill:#58a6ff;"></path>
-  </svg>
-</div>
+
