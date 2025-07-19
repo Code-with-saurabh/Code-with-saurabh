@@ -61,7 +61,7 @@
   <h4 style="color:#58a6ff;">Frameworks & Libraries</h4>
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" /><br/><br/>
   <img src="https://skillicons.dev/icons?i=angular,express,nodejs" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=bootstrap,socketio" /><br/><br/><br/>
+  <img src="https://skillicons.dev/icons?i=socketio,bootstrap,socketio" /><br/><br/><br/>
   <h4 style="color:#58a6ff;">Dev & Others</h4>
   <img src="https://skillicons.dev/icons?i=git,github,postman" /><br/><br/>
     <img src="https://skillicons.dev/icons?i=npm,windows" />
