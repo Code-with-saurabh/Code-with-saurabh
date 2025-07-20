@@ -9,18 +9,9 @@
 ---
 
 ## 📫 Reach Me At:  
-📧 <b>idkxyz001@gmail.com</b>  
-⚡ <i>Fun Fact:</i> I see algorithms in everything — even my morning coffee ☕!
-
----
-
-## 🌐 Portfolio
-<p align="center">
-  🔗 Check out my personal portfolio: <br/>
-  <a href="https://saurabhsharmaportfolio.netlify.app" target="_blank">
-    <b>🌍 saurabhsharmaportfolio.netlify.app</b>
-  </a>
-</p>
+📧 **idkxyz001@gmail.com**  
+🌐 **Portfolio:** [saurabhsharmaportfolio.netlify.app](https://saurabhsharmaportfolio.netlify.app)  
+⚡ *Fun Fact:* I see algorithms in everything — even my morning coffee ☕!
 
 ---
 
