@@ -38,11 +38,11 @@
 <!-- LEFT COLUMN -->
 <td align="center" valign="top" style="width:33%; padding:10px;">
   <h4 style="color:#58a6ff;">Languages & Tools</h4>
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,scss" /><br/><br/>
   <img src="https://skillicons.dev/icons?i=js,java,php,python" /><br/><br/>
   <img src="https://skillicons.dev/icons?i=bash,powershell" /><br/><br/><br/>
   <h4 style="color:#58a6ff;">Databases & Platforms</h4>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres" /><br/><br/>
     <img src="https://skillicons.dev/icons?i=vercel,netlify" />
 </td>
 
