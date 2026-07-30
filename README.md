@@ -26,6 +26,9 @@
   <a href="https://x.com/Mr_Saurabh_16" target="_blank" style="margin: 0 15px;">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter/X" height="30" width="40" />
   </a>
+    <a href="https://leetcode.com/u/code-with-saurabh/" target="_blank" style="margin: 0 15px;">
+    <img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" height="30" width="40" />
+  </a>
 </p>
 
 ---
