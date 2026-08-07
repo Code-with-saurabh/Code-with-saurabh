@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#58a6ff;">Hi 👋, I'm Saurabh</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=300&section=header&text=Saurabh%20Sharma&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Code-with-saurabh%20%7C%20Building%20Creative%20Digital%20Solutions&descSize=22&descAlignY=70)
 <h3 align="center" style="color:#8b949e;">A passionate Software Engineer from India 🇮🇳</h3>
 
 <p align="center">
